@@ -1,1 +1,1 @@
-# -egg-boilerplate-service
+# egg-boilerplate-service
