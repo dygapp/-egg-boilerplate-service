@@ -28,7 +28,7 @@ Boilerplate for egg quickstart.
 
 ```bash
 $ npm i -g egg-init
-$ egg-init --type simple showcase
+$ npm init egg --package=egg-boilerplate-service showcase
 $ cd showcase
 $ npm i
 $ npm run dev
